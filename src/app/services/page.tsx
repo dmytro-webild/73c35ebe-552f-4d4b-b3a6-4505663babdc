@@ -269,7 +269,7 @@ export default function ServicesPage() {
               name: "Rajesh Kumar",
               role: "Head of Technology, Global IT Corp",
               testimonial: "EduRamp's technical training programs elevated our team's expertise significantly. The instructors are world-class and the curriculum is perfectly aligned with industry standards. Our project delivery improved by 40% within three months.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/corporate-director-professional-portrait-1773187224689-cd7c8e73.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/corporate-director-professional-portrait-1773187224689-cd7c8e73.png?_wi=2",
               imageAlt: "Rajesh Kumar"
             },
             {
@@ -277,7 +277,7 @@ export default function ServicesPage() {
               name: "Priya Sharma",
               role: "Human Resources Director, Enterprise Solutions",
               testimonial: "The behavioral skills program transformed how our teams communicate and collaborate. Employees report higher engagement and satisfaction. We've seen reduced turnover and increased productivity across departments.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/human-resources-professional-portrait-sh-1773187225593-7d719dd5.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/human-resources-professional-portrait-sh-1773187225593-7d719dd5.png?_wi=2",
               imageAlt: "Priya Sharma"
             },
             {
@@ -285,7 +285,7 @@ export default function ServicesPage() {
               name: "Amit Desai",
               role: "Chief Operating Officer, Innovation Ventures",
               testimonial: "Outstanding leadership development program. Our managers now have the strategic thinking and decision-making skills we need for our growth phase. EduRamp truly understands enterprise learning.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-corporate-executive-portrai-1773187223775-dc4c4917.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-corporate-executive-portrai-1773187223775-dc4c4917.png?_wi=1",
               imageAlt: "Amit Desai"
             },
             {
@@ -293,7 +293,7 @@ export default function ServicesPage() {
               name: "Neha Kapoor",
               role: "Learning & Development Manager, Tech Innovations",
               testimonial: "Professional, responsive, and results-oriented. EduRamp customized the program perfectly for our organization. Our technical team is now equipped with modern skills and best practices.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-training-instructor-portrai-1773187224353-edd65783.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-training-instructor-portrai-1773187224353-edd65783.png?_wi=2",
               imageAlt: "Neha Kapoor"
             },
             {
@@ -301,7 +301,7 @@ export default function ServicesPage() {
               name: "Vikram Choudhary",
               role: "VP Sales, Business Solutions Ltd",
               testimonial: "The communication and presentation skills training has made a remarkable difference in our sales team's performance. Client feedback has improved significantly, and our closing rates are up by 35%.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-manager-portrait-with-appro-1773187223633-1b503ec4.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-manager-portrait-with-appro-1773187223633-1b503ec4.png?_wi=2",
               imageAlt: "Vikram Choudhary"
             },
             {
@@ -309,7 +309,7 @@ export default function ServicesPage() {
               name: "Ananya Singh",
               role: "Chief People Officer, Digital Transformation Co",
               testimonial: "EduRamp's holistic approach to training combines technical excellence with behavioral development. Our employees feel valued and equipped for the future. This is a true partnership approach to learning.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/human-resources-professional-portrait-sh-1773187225593-7d719dd5.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/human-resources-professional-portrait-sh-1773187225593-7d719dd5.png?_wi=3",
               imageAlt: "Ananya Singh"
             }
           ]}
