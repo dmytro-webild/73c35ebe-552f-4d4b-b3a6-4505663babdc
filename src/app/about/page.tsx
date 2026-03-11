@@ -61,28 +61,28 @@ const AboutPage = () => {
               handle: "Certified Training Partner",
               testimonial: "Accredited by international quality standards with proven expertise in enterprise learning solutions and organizational development.",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/corporate-director-professional-portrait-1773187224689-cd7c8e73.png"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/corporate-director-professional-portrait-1773187224689-cd7c8e73.png?_wi=1"
             },
             {
               name: "Expert Faculty",
               handle: "World-Class Instructors",
               testimonial: "Our trainers bring decades of combined industry experience with deep expertise in technology, leadership, and organizational development.",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-training-instructor-portrai-1773187224353-edd65783.png"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-training-instructor-portrai-1773187224353-edd65783.png?_wi=1"
             },
             {
               name: "Proven Results",
               handle: "50,000+ Professionals Trained",
               testimonial: "Consistent track record of delivering measurable business impact with client satisfaction rates exceeding 95% and strong ROI metrics.",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/human-resources-professional-portrait-sh-1773187225593-7d719dd5.png"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/human-resources-professional-portrait-sh-1773187225593-7d719dd5.png?_wi=1"
             },
             {
               name: "Innovation Focus",
               handle: "Modern Learning Solutions",
               testimonial: "Leveraging cutting-edge instructional design, blended learning approaches, and emerging technologies to deliver transformative training experiences.",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-manager-portrait-with-appro-1773187223633-1b503ec4.png"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-manager-portrait-with-appro-1773187223633-1b503ec4.png?_wi=1"
             }
           ]}
           buttons={[
