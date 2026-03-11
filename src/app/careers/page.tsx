@@ -186,7 +186,7 @@ export default function CareersPage() {
               name: "Learning Culture",
               role: "Continuous professional development",
               testimonial: "We invest in our team's growth through regular training, certifications, and exposure to cutting-edge learning technologies. Your expertise and skills continuously evolve here.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-training-instructor-portrai-1773187224353-edd65783.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-training-instructor-portrai-1773187224353-edd65783.png?_wi=3",
               imageAlt: "Learning Culture"
             },
             {
@@ -194,7 +194,7 @@ export default function CareersPage() {
               name: "Impact Driven Work",
               role: "Making a real difference",
               testimonial: "You'll have the satisfaction of transforming lives and careers. Working with Fortune 500 companies and seeing your training programs create measurable organizational impact is incredibly rewarding.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/corporate-director-professional-portrait-1773187224689-cd7c8e73.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/corporate-director-professional-portrait-1773187224689-cd7c8e73.png?_wi=3",
               imageAlt: "Impact Driven Work"
             },
             {
@@ -202,7 +202,7 @@ export default function CareersPage() {
               name: "Collaborative Team",
               role: "Working with industry experts",
               testimonial: "Our team comprises passionate learning professionals and subject matter experts. You'll collaborate with highly skilled individuals who are committed to excellence and innovation in corporate learning.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-manager-portrait-with-appro-1773187223633-1b503ec4.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-manager-portrait-with-appro-1773187223633-1b503ec4.png?_wi=3",
               imageAlt: "Collaborative Team"
             },
             {
@@ -210,7 +210,7 @@ export default function CareersPage() {
               name: "Competitive Benefits",
               role: "Comprehensive employee wellness",
               testimonial: "We offer competitive salaries, health insurance, retirement planning, flexible work arrangements, and regular performance bonuses. Your well-being is our priority.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/human-resources-professional-portrait-sh-1773187225593-7d719dd5.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/human-resources-professional-portrait-sh-1773187225593-7d719dd5.png?_wi=4",
               imageAlt: "Competitive Benefits"
             },
             {
@@ -218,7 +218,7 @@ export default function CareersPage() {
               name: "Innovation & Technology",
               role: "Staying ahead of industry trends",
               testimonial: "We leverage the latest learning technologies and platforms. You'll work with modern tools, LMS systems, and instructional design software at the cutting edge of the industry.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-corporate-executive-portrai-1773187223775-dc4c4917.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-corporate-executive-portrai-1773187223775-dc4c4917.png?_wi=2",
               imageAlt: "Innovation & Technology"
             },
             {
@@ -226,7 +226,7 @@ export default function CareersPage() {
               name: "Career Growth",
               role: "Opportunities for advancement",
               testimonial: "With our expanding portfolio and client base, there are clear career progression pathways. Many of our senior leaders started in entry-level positions and have grown within the organization.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-manager-portrait-with-appro-1773187223633-1b503ec4.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Al4G8H4TUI0qVsGwEgVj5K2NLW/professional-manager-portrait-with-appro-1773187223633-1b503ec4.png?_wi=4",
               imageAlt: "Career Growth"
             }
           ]}
